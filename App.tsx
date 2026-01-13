@@ -16,6 +16,7 @@ function App() {
         <Expertise />
         <Engagement />
         <QuoteForm />
+        <Testimonials />
       </main>
 
       <Footer />
